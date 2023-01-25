@@ -1,0 +1,11 @@
+*Classical Chinese Works Revivified*
+
+This is a demo repository of my hobby project learning to typeset hard-to-find Classical and Literary Chinese works into a modern-ish format with LuaTeX and LuaTeXja.
+
+Projects here are work in progress.
+
+Currently texts are sourced from CBETA 漢文大藏經 (http://tripitaka.cbeta.org/).
+
+This project is directly inspired by [[https://lindypress.net/][www.lindypress.net]].
+
+All contents here are Creative Commons Zero (CC0) licensed.
